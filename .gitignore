@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.pkl
+*.h5
+*.log
+*.zip
+*.vscode
+dataset/
+models/
